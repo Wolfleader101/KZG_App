@@ -1,0 +1,14 @@
+{
+  "name": "kzg_app",
+  "version": "0.1.0",
+  "description": "a app for kzg website",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Wolfleader101",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.8.6"
+  }
+}
